@@ -149,7 +149,7 @@ int numberOfTrees = 2,
   maximumNumberOfAttempts = 10,
   numberOfTerminals = 250;
 
-double *targetPerfusionFlow[] = {0.667, 0.333}, 
+double targetPerfusionFlow[] = {0.667, 0.333}, 
   invasionCoefficient = 0.75,
   radiusExpoent = 2.0,
   lengthExpoent = 1.0,
@@ -264,7 +264,7 @@ int numberOfTrees = 2,
   maximumNumberOfAttempts = 10,
   numberOfTerminals = 250;
 
-double *targetPerfusionFlow[] = {0.667, 0.333}, 
+double targetPerfusionFlow[] = {0.667, 0.333}, 
   stageCoefficient = 0.2,
   radiusExpoent = 2.0,
   lengthExpoent = 1.0,

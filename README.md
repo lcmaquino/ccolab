@@ -29,7 +29,8 @@ It'll create the `ccolab` folder on your current working directory.
 
 ### Download the repository
 
-[Download](https://github.com/lcmaquino/ccolab/archive/main.zip) the repository for your local files and extract it.
+[Download](https://github.com/lcmaquino/ccolab/archive/main.zip) the repository 
+for your local files and extract it.
 
 ## Usage
 
@@ -39,7 +40,8 @@ This example cover the case for constructing a tree in the perfusion
 domain as a sphere of 0.0287941 (meters) radius.
 
 The tree will have 250 terminal segments. See the 
-`src/tree/interface/TreeModel.h` to know all the tree parameters.
+[`src/tree/interface/TreeModel.h`](src/tree/interface/TreeModel.h) to know all 
+the tree parameters.
 
 Include the headers:
 ```
@@ -121,12 +123,14 @@ treeFile->save("cco-tree.vtk");
 
 ### CCO Forest Invasion
 
-This example cover the case for constructing a forest of two trees in the perfusion domain as a sphere of 0.0287941 (meters) radius.
+This example cover the case for constructing a forest of two trees in the 
+perfusion domain as a sphere of 0.0287941 (meters) radius.
 
 The forest will have 250 terminal segments. The tree 1 will 
 have 66.7% of the target flow and the tree 2 will have 
 33.3%. The invasion coefficient is 0.75. See the 
-`src/tree/interface/TreeModel.h` and `src/forest/interface/Forest.h`
+[`src/tree/interface/TreeModel.h`](src/tree/interface/TreeModel.h) and 
+[`src/forest/interface/Forest.h`](src/forest/interface/Forest.h)
 to know all the tree and forest parameters.
 
 Include the headers:
@@ -240,7 +244,8 @@ This example cover the case for constructing a forest of two trees in the perfus
 The forest will have 250 terminal segments. The tree 1 will 
 have 66.7% of the target flow and the tree 2 will have 
 33.3%. The first stage coefficient is 0.2. See the 
-`src/tree/interface/TreeModel.h` and `src/forest/interface/Forest.h`
+[`src/tree/interface/TreeModel.h`](src/tree/interface/TreeModel.h) and 
+[`src/forest/interface/Forest.h`](src/forest/interface/Forest.h)
 to know all the tree and forest parameters.
 
 Include the headers:

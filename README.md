@@ -14,7 +14,8 @@ optimization. Computers in Biology and Medicine, 29(1):19–38, 1999.
 
 L C M de Aquino. Desenvolvimento de algoritmos para construção 
 automática de florestas de árvores arteriais. PhD tese, Pós-graduação 
-em Modelagem Computacional – UFJF, Juiz de Fora, 2022.
+em Modelagem Computacional – UFJF, Juiz de Fora, 2022. 
+[https://github.com/lcmaquino/tese-doutorado](https://github.com/lcmaquino/tese-doutorado)
 
 ## Install
 
